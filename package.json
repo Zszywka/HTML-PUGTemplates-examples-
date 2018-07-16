@@ -1,0 +1,16 @@
+{
+  "name": "templatePLUG",
+  "version": "1.0.0",
+  "description": "You should: 1. write in the console: -> npm install --save pug",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pug": "^2.0.3"
+  }
+}
